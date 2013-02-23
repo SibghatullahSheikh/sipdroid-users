@@ -22,3 +22,4 @@ piotrek.zurek@gmail.com = Piotrek Zurek <piotrek.zurek@gmail.com>
 pmerle71 = Pascal Merle <pmerle@bluebottle.com>
 ray.bellis = Ray Bellis <ray.bellis@gmail.com>
 ReeeYeees = Reee Yeees <ReeeYeees@gmail.com>
+thilo.bangert = Thilo Bangert <thilo.bangert@gmail.com>

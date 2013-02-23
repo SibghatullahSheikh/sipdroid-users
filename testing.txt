@@ -17,3 +17,4 @@ marco.canelas@gmail.com = Marco Canelas <marco.canelas@gmail.com>
 matthew.monacelli = Matthew Monacelli <matthew.monacelli@gmail.com>
 mongi3 = <mongi3@gmail.com>
 nio.von = Nio Von <nio.von@gmail.com>
+(no author) = Pascal Merle <pmerle@bluebottle.com>

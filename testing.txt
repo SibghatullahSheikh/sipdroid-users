@@ -2,3 +2,4 @@ andrey@sitnik.ru = Andrey Sitnik <andrey@sitnik.ru>
 antonioams = Antonio Anderson Souza <antonioams@gmail.com>
 buzmavi = Buz Mavi <buzmavi@gmail.com>
 calin.marina = Calin Marina <calin.marina@gmail.com>
+carlos.talbot@gmail.com = Carlos Talbot <carlos.talbot@gmail.com>

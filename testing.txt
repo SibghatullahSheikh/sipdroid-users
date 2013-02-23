@@ -7,3 +7,4 @@ christoph_weber@gmx.net = Christoph Weber <christoph_weber@gmx.net>
 cyril.jaquier = Cyril Jacquier <cyril.jaquier@gmail.com>
 eriksson.mag = Eriksson Mag <eriksson.mag@gmail.com>
 felix.bechstein@gmail.com = Felix Bechstein <f@ub0r.de>
+jejbgo = James Bottomley <james.bottomley@HansenPartnership.com>

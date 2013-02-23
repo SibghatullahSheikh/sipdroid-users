@@ -10,3 +10,4 @@ felix.bechstein@gmail.com = Felix Bechstein <f@ub0r.de>
 jejbgo = James Bottomley <james.bottomley@HansenPartnership.com>
 jiri.tyr = Jiri Tyr <jiri.tyr@gmail.com>
 joe.n.jackson = Joe N Jackson <joe.n.jackson@gmail.com>
+jropal987 = jropal987@gmail.com <jropal987@gmail.com>

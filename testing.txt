@@ -5,3 +5,4 @@ calin.marina = Calin Marina <calin.marina@gmail.com>
 carlos.talbot@gmail.com = Carlos Talbot <carlos.talbot@gmail.com>
 christoph_weber@gmx.net = Christoph Weber <christoph_weber@gmx.net>
 cyril.jaquier = Cyril Jacquier <cyril.jaquier@gmail.com>
+eriksson.mag = Eriksson Mag <eriksson.mag@gmail.com>

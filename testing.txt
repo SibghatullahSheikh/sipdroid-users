@@ -26,3 +26,4 @@ thilo.bangert = Thilo Bangert <thilo.bangert@gmail.com>
 tm.inoue@gmail.com = Tm Inoue <tm.inoue@gmail.com>
 vherilier = Vincent Herilier <vherilier@gmail.com>
 wavehill09 = wavehill09 <wavehill09@gmail.com>
+wimaxsys = Alexey Demin <wimaxsys@gmail.com>

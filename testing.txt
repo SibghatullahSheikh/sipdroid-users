@@ -12,3 +12,4 @@ jiri.tyr = Jiri Tyr <jiri.tyr@gmail.com>
 joe.n.jackson = Joe N Jackson <joe.n.jackson@gmail.com>
 jropal987 = jropal987@gmail.com <jropal987@gmail.com>
 lepitrust = Gianfilippo Grignola <lepitrust@gmail.com>
+mandrajg = Mandrajg <mandrajg@gmail.com>
